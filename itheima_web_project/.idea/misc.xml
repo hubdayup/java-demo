@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springboot_web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/maven_project_01/pom.xml" />
+        <option value="$PROJECT_DIR$/maven-project02/pom.xml" />
+        <option value="$PROJECT_DIR$/maven-projectA/pom.xml" />
+        <option value="$PROJECT_DIR$/maven-projectB/pom.xml" />
+        <option value="$PROJECT_DIR$/maven-projectC/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_web_quickerstart/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_web_quickerstart/springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/demo11/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot-mybatis-quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/tlias/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_web_quickerstart/springboot/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
